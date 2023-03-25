@@ -88,7 +88,7 @@ const ProjectContent = (props) => {
           {project.image && (
             <div className={classes.projectImage}>
               <Image
-                src={`../../portfolio/images/projects/${project.image}`}
+                src={`/images/projects/${project.image}`}
                 width={500}
                 height={360}
                 alt=''
