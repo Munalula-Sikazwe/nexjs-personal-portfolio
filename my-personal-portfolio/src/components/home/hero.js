@@ -41,7 +41,7 @@ const Hero = () => {
               I build stuff with{' '}
               <span>
                 <Image
-                  src='/portfolio/images/js.png'
+                  src='/images/js.png'
                   alt='usa-flag'
                   width={16}
                   height={16}
