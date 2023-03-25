@@ -25,7 +25,7 @@ const FeaturedProjectItem = (props) => {
               <a>
                 <div className={classes.card}>
                   <Image
-                    src={`/portfolio/images/projects/${project.image}`}
+                    src={`/images/projects/${project.image}`}
                     width={600}
                     height={460}
                     alt={project.title}
