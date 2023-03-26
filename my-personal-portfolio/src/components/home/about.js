@@ -17,16 +17,14 @@ const About = () => {
         <div className={classes.row}>
           <div className={classes.columnLeft} data-aos='fade-right'>
             <h3>
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Commodi
-              molestiae libero eius adipisci reprehenderit, cumque illum atque
-              provident ullam placeat harum veritatis odit perferendis ipsum
-              aperiam mollitia voluptates temporibus nulla?
+              Experienced Python and JavaScript Developer with Strong Project Management Skills
             </h3>
             <p>
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Placeat
-              qui autem quis, alias porro eligendi nostrum impedit aut omnis a
-              distinctio officiis excepturi facere incidunt ut! Asperiores
-              laboriosam iure blanditiis.
+              As a Python and JavaScript developer, I have built several projects and have a package listed on PyPI. I possess a deep understanding of Python and JavaScript and have experience working with databases, APIs, and other tools commonly used in web development.
+
+              As a developer, my strengths include problem-solving, attention to detail, and the ability to work collaboratively with others. I also have strong project management skills, allowing me to plan, execute, and deliver projects efficiently.
+
+              My work style is detail-oriented, deadline-driven, and focused on delivering high-quality code. I am comfortable working in both agile and waterfall development methodologies, depending on the needs of the project.
             </p>
           </div>
 
