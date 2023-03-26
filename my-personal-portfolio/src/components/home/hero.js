@@ -38,7 +38,7 @@ const Hero = () => {
             <h3 data-aos='fade-left'>Hi, my name is Munalula Sikazwe.</h3>
             <h1 data-aos='fade-right'>I&apos;m a Software Developer</h1>
             <p data-aos='fade-left' data-aos-delay='150'>
-              I build stuff with{' '}
+              I build stuff with{'-'}
              
             </p>
             <p data-aos='fade-left' data-aos-delay='150'>
