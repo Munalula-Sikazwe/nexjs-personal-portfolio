@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 
 function ContactModal(props) {
   const [state, handleSubmit] = useForm('123xyz'); //TODO: replaceWithYourOwn
-  console.log(state);
+
   if (state.submitting) {
     return (
       <div className={classes.modal}>
@@ -18,7 +18,7 @@ function ContactModal(props) {
               Also feel free to contact me via Linkedin:
             </p>
             <div className={classes.linkedinLink}>
-              <a href='#' target='_blank' rel='noreferrer'>
+              <a href='https://www.linkedin.com/in/munalula-sikazwe-a131891b4/' target='_blank' rel='noreferrer'>
                 <i className='fab fa-linkedin'></i>
               </a>
             </div>
@@ -44,7 +44,7 @@ function ContactModal(props) {
               Also feel free to contact me via Linkedin:
             </p>
             <div className={classes.linkedinLink}>
-              <a href='#' target='_blank' rel='noreferrer'>
+              <a href='https://www.linkedin.com/in/munalula-sikazwe-a131891b4/' target='_blank' rel='noreferrer'>
                 <i className='fab fa-linkedin'></i>
               </a>
             </div>
@@ -81,7 +81,7 @@ function ContactModal(props) {
               Also feel free to contact me via Linkedin:
             </p>
             <div className={classes.linkedinLink}>
-              <a href='#' target='_blank' rel='noreferrer'>
+              <a href='https://www.linkedin.com/in/munalula-sikazwe-a131891b4/' target='_blank' rel='noreferrer'>
                 <i className='fab fa-linkedin'></i>
               </a>
             </div>
