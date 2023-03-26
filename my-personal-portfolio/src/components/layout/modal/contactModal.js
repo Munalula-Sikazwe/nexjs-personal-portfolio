@@ -3,11 +3,11 @@ import { useForm, ValidationError } from '@formspree/react';
 import { motion } from 'framer-motion';
 
 function ContactModal(props) {
-  const [state, handleSubmit] = useForm('123xyz'); //TODO: replaceWithYourOwn
+  const [state, handleSubmit] = useForm('contactForm'); //TODO: replaceWithYourOwn
 
   if (state.submitting) {
     return (
-      <div className={classes.modal}>
+      <div id="contactForm" className={classes.modal}>
         <div
           className={`${classes.contactModal} ${classes.contactModalConfirmation}`}>
           <div>
@@ -30,7 +30,7 @@ function ContactModal(props) {
 
   if (state.succeeded) {
     return (
-      <div className={classes.modal}>
+      <div id="contactForm" className={classes.modal}>
         <div
           className={`${classes.contactModal} ${classes.contactModalConfirmation}`}>
           <a href='#!' className={classes.close} onClick={props.onClose}>
