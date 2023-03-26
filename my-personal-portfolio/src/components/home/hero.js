@@ -75,7 +75,7 @@ const Hero = () => {
               Python.
             </p>
             <div className={classes.socialMedia}>
-              <a href='#' target='_blank' rel='noreferrer'>
+              <a href='https://github.com/Munalula-Sikazwe' target='_blank' rel='noreferrer'>
                 <i className='fab fa-github' data-aos='flip-up'></i>
               </a>
               <a href='#' target='_blank' rel='noreferrer'>
