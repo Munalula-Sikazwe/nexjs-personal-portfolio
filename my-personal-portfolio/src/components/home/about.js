@@ -13,7 +13,6 @@ const About = () => {
     <section className={classes.about} id='about'>
       <div className={classes.container}>
         <h2 data-aos='slide-right'>About me</h2>
-
         <div className={classes.row}>
           <div className={classes.columnLeft} data-aos='fade-right'>
             <h3>
