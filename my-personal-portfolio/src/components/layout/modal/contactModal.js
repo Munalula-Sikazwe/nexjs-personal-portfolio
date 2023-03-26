@@ -137,7 +137,7 @@ function ContactModal(props) {
 
           <div className={classes.action}>
             <div className={classes.linkedinLink}>
-              <a href='#' target='_blank' rel='noreferrer'>
+              <a href='https://www.linkedin.com/in/munalula-sikazwe-a131891b4/' target='_blank' rel='noreferrer'>
                 <i className='fab fa-linkedin'></i>
               </a>
             </div>
