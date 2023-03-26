@@ -35,19 +35,44 @@ const Hero = () => {
       <div className={classes.container}>
         <div className={classes.row}>
           <div className={classes.columnLeft}>
-            <h3 data-aos='fade-left'>Hi, my name is Lorem Ipsum.</h3>
-            <h1 data-aos='fade-right'>I&apos;m a Web Developer.</h1>
+            <h3 data-aos='fade-left'>Hi, my name is Munalula Sikazwe.</h3>
+            <h1 data-aos='fade-right'>I&apos;m a Software Developer</h1>
             <p data-aos='fade-left' data-aos-delay='150'>
               I build stuff with{' '}
-              <span>
+             
+            </p>
+            <p data-aos='fade-left' data-aos-delay='150'>
+            <span>
                 <Image
-                  src='/images/js.png'
+                  src='/images/icons/typescript.png'
                   alt='usa-flag'
                   width={16}
                   height={16}
                 />
               </span>{' '}
-              Javascript.
+              Typescript.
+            </p>
+            <p data-aos='fade-left' data-aos-delay='150'>
+            <span>
+                <Image
+                  src='/images/icons/react.png'
+                  alt='usa-flag'
+                  width={16}
+                  height={16}
+                />
+              </span>{' '}
+              React.
+            </p>
+            <p data-aos='fade-left' data-aos-delay='150'>
+            <span>
+                <Image
+                  src='/images/icons/python.png'
+                  alt='usa-flag'
+                  width={16}
+                  height={16}
+                />
+              </span>{' '}
+              Python.
             </p>
             <div className={classes.socialMedia}>
               <a href='#' target='_blank' rel='noreferrer'>
