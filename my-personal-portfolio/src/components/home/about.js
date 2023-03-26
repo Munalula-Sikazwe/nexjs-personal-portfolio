@@ -38,7 +38,7 @@ const About = () => {
               />
             </div>
             <div className={classes.quote} data-aos='fade-right'>
-              &quot;Distinctio officiis excepturi facere incidunt ut!&quot;
+              &quot;Code never lies, comments sometimes do&quot;
             </div>
           </div>
         </div>
