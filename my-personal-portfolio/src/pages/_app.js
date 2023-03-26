@@ -7,13 +7,7 @@ import { useState, useEffect } from 'react';
 function MyApp({ Component, pageProps }) {
   const [theme, setTheme] = useState('dark');
 
-  useEffect(() => {
-    if (window.matchMedia('(prefers-color-scheme: light)').matches) {
-      setTheme('light');
-    } else {
-      setTheme('dark');
-    }
-  }, [setTheme]);
+
 
   return (
     <>
