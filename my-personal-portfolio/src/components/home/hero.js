@@ -78,24 +78,19 @@ const Hero = () => {
               <a href='https://github.com/Munalula-Sikazwe' target='_blank' rel='noreferrer'>
                 <i className='fab fa-github' data-aos='flip-up'></i>
               </a>
-              <a href='#' target='_blank' rel='noreferrer'>
+              <a href='https://www.linkedin.com/in/munalula-sikazwe-a131891b4/' target='_blank' rel='noreferrer'>
                 <i
                   className='fab fa-linkedin'
                   data-aos='flip-up'
                   data-aos-delay='50'></i>
               </a>{' '}
-              <a href='#' target='_blank' rel='noreferrer'>
+              <a href='https://www.hackerrank.com/munalulasikazwe1' target='_blank' rel='noreferrer'>
                 <i
-                  className='fab fa-twitter'
+                  className='fab fa-hackerrank'
                   data-aos='flip-up'
                   data-aos-delay='100'></i>
               </a>{' '}
-              <a href='#' target='_blank' rel='noreferrer'>
-                <i
-                  className='fab fa-codepen'
-                  data-aos='flip-up'
-                  data-aos-delay='150'></i>
-              </a>
+              
             </div>
             <div className={classes.ctaButtons}>
               <motion.button
