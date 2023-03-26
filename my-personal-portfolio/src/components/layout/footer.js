@@ -11,7 +11,7 @@ const Footer = () => {
           <i className='fab fa-linkedin'></i>
         </a>
       </div>
-      <div>Lorem Ipsum</div>
+      <div>Every great developer you know got there by solving problems they were unqualified to solve until they actually did it.</div>
       <small>
         Icons by{' '}
         <a href='https://www.flaticon.com/' target='_blank' rel='noreferrer'>
