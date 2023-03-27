@@ -7,8 +7,8 @@
     - GraphQl
     - Apollo 
   description: Search for github users with Github API and React Context.
-  liveLink: https://google.com/
-  githubLink: https://github.com/
+  liveLink: https://ecocube.io/
+  # githubLink: https://github.com/
   image: github-finder.png
   isFeatured: true
 ---
