@@ -16,8 +16,7 @@
       description: Homepage with navbar and hero element.
     - screenshot: ekamo_screenshot.png
       description: >-
-        Homepage. Carousel with 3 top-rated products and general product
-        listing.
+        Homepage. A brief description of what Ekamo is about . 
 ---
 
 ## Description
