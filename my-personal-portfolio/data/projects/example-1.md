@@ -12,7 +12,7 @@
   image: ekamo_image.jpg
   isFeatured: true
   screenshots:
-    - screenshot: ekamo_screenshot.png
+    - screenshot: ekamo_screenshot0.png
       description: Homepage with navbar and hero element.
     - screenshot: ekamo_screenshot.png
       description: >-
