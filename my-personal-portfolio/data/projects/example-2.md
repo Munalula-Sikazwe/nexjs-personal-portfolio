@@ -1,8 +1,11 @@
 ---
-  title: Example 2
+  title: Ecocube 
   tech:
-    - React
+    - React Native
     - Context
+    - Django 
+    - GraphQl
+    - Apollo 
   description: Search for github users with Github API and React Context.
   liveLink: https://google.com/
   githubLink: https://github.com/
