@@ -12,9 +12,9 @@
   image: ekamo_image.jpg
   isFeatured: true
   screenshots:
-    - screenshot: 01-home.png
+    - screenshot: ekamo_screenshot0.png
       description: Homepage with navbar and hero element.
-    - screenshot: 02-home.png
+    - screenshot: ekamo_screenshot.png
       description: >-
         Homepage. Carousel with 3 top-rated products and general product
         listing.
