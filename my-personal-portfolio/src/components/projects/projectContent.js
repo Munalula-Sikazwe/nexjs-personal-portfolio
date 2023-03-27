@@ -114,7 +114,7 @@ const ProjectContent = (props) => {
                 {project.screenshots.map((screenshot, index) => (
                   <SwiperSlide key={index}>
                     <Image
-                      src={`../../portfolio/images/projects/${project.slug}/${screenshot.screenshot}`}
+                      src={`/images/projects/${project.slug}/${screenshot.screenshot}`}
                       width={1000}
                       height={700}
                       alt={screenshot.description}
