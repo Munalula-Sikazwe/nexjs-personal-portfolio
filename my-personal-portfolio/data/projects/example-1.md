@@ -11,13 +11,13 @@
   # githubLink: https://github.com/
   image: ekamo_image.jpg
   isFeatured: true
-  # screenshots:
-  #   - screenshot: ekamo_screenshot.png
-  #     description: Homepage with navbar and hero element.
-  #   - screenshot: ekamo_screenshot.png
-  #     description: >-
-  #       Homepage. Carousel with 3 top-rated products and general product
-  #       listing.
+  screenshots:
+    - screenshot: ekamo_screenshot.png
+      description: Homepage with navbar and hero element.
+    - screenshot: ekamo_screenshot.png
+      description: >-
+        Homepage. Carousel with 3 top-rated products and general product
+        listing.
 ---
 
 ## Description
