@@ -1,15 +1,15 @@
 ---
-  title: Example 1
+  title: EKAMO WALLET
   tech:
-    - React
-    - MongoDB
-    - Node
-    - Express
-    - Context
-  description: This is a MERN Fullstack project with authentication and CRUD functionality.
-  liveLink: https://google.com/
-  githubLink: https://github.com/
-  image: contact-keeper.png
+    - DJANGO
+    - POSTGRES
+    - PYTHON
+    - LINUX
+    - REST APIS
+  description: This is Ewallet that connects all financial service providers.
+  # liveLink: https://google.com/
+  # githubLink: https://github.com/
+  image: ekamo_image.jpg
   isFeatured: true
   screenshots:
     - screenshot: 01-home.png
@@ -22,31 +22,9 @@
 
 ## Description
 
-This is a MERN Fullstack project with authentication and CRUD functionality.
+This is Ewallet that connects all financial service providers.
 
 ## Key takeaways
 
-Context
 
-#### Code Example
 
-Combines all reducers and apply thunk (middleware that allows
-you to return functions).
-
-<details>
-
-  <summary>
-    <ins>View code</ins>
-    <span>
-      <i class="fa-solid fa-angle-right"></i>
-    </span>
-  </summary>
-
-```js
-const reducer = combineReducers({
-  productList: productListReducer,
-});
-```
-
-</details>
-<br />
