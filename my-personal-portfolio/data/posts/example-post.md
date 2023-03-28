@@ -10,6 +10,8 @@ tech: ['Markdown']
 # Understanding Computer Science: Debunking Myths and Exploring Branches
 
 ![Image ...](/images/posts/first-post/article2.jpg)
+
+
 Computer Science is a vast field that encompasses a wide range of topics, from theoretical concepts to practical applications. One common myth about Computer Science is that it is all about coding, but in reality, it is about using computers to solve real-world problems. Computer Scientists use their knowledge of algorithms and programming languages to develop software and hardware systems that can solve complex problems efficiently.
 
 Algorithms are at the core of Computer Science and provide the best approach to problem-solving. They are a set of instructions that tell a computer what to do, and they are essential for solving complex problems. Without algorithms, computers would be unable to perform complex tasks, and the field of Computer Science would not exist.
