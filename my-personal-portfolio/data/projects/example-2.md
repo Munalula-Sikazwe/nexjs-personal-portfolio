@@ -15,8 +15,10 @@
 
 ## Description
 
-React js 
+Building the Spotless city app with React Native while using Apollo for state management. 
 
 ## Key takeaways
 
-Github API and Context
+App Deployment and Testing.
+State management with Apollo 
+
