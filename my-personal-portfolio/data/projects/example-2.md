@@ -9,13 +9,13 @@
   description: Search for github users with Github API and React Context.
   liveLink: https://ecocube.io/
   # githubLink: https://github.com/
-  image: github-finder.png
+  image: ecocube.png
   isFeatured: true
 ---
 
 ## Description
 
-User searching app using Github API and context.
+React js 
 
 ## Key takeaways
 
