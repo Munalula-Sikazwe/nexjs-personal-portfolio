@@ -4,10 +4,10 @@ const Footer = () => {
   return (
     <footer className={classes.footer}>
       <div className={classes.socialMedia}>
-        <a href='#' target='_blank' rel='noreferrer'>
+        <a href='https://github.com/Munalula-Sikazwe' target='_blank' rel='noreferrer'>
           <i className='fab fa-github'></i>
         </a>
-        <a href='#' target='_blank' rel='noreferrer'>
+        <a href='https://www.linkedin.com/in/munalula-sikazwe-a131891b4/' target='_blank' rel='noreferrer'>
           <i className='fab fa-linkedin'></i>
         </a>
       </div>
